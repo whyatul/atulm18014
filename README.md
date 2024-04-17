@@ -8,10 +8,10 @@
  <p align="center">
 </p> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=25&pause=1000&random=false&width=435&lines=Hola+%F0%9F%98%80%2C+This+is+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8)](https://git.io/typing-svg">   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=25&pause=1000&random=false&width=435&lines=Hola+%F0%9F%98%80%2C+This+is+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8">   
 </p> 
 
-<p align="center"><img src="https://github.com/atulm18014/atul_maurya/blob/main/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20%26%20Share%20GIFs.gif"></p>
+<p align="center"><img src="https://github.com/atulm18014/atulm18014/blob/main/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20%26%20Share%20GIFs.gif"></p>
   
 Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Science with a keen focus on Artificial Intelligence and Machine Learning. With an insatiable curiosity and a knack for problem-solving, I dive deep into the realms of technology, exploring its nuances and pushing boundaries.
 <br>
@@ -64,6 +64,4 @@ Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Scienc
 </td>
 
 </tr></table>
-
 <a href="https://github.com/atulm18014"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
