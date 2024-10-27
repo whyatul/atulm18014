@@ -4,7 +4,7 @@
 
 <p align="center">
 </p>
-<h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
+<h1 align="center">WELCOME TO MY PORTFOLIO</h1>
  <p align="center">
 </p> 
 <p align="center">
