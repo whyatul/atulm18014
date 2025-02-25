@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://github.com/atulm18014/atulm18014/blob/main/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20%26%20Share%20GIFs.gif"></p>
   
-Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Science with a keen focus on Artificial Intelligence and Machine Learning. With an insatiable curiosity and a knack for problem-solving, I dive deep into the realms of technology, exploring its nuances and pushing boundaries.
+Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Science with a specialization in Artificial Intelligence and Machine Learning. With an insatiable curiosity and a knack for problem-solving, I dive deep into the realms of technology, exploring its nuances and pushing boundaries.
 <br>
 
 **Motto** : Unlocking possibilities, one line of code at a time.<br>
