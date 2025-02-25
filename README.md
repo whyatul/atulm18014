@@ -8,7 +8,7 @@
  <p align="center">
 </p> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=25&pause=1000&random=false&width=435&lines=Hola+%F0%9F%98%80%2C+This+is+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8">   
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=25&pause=1000&random=false&width=435&lines=Hola+%F0%9F%98%80%2C+This+is+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8">   
 </p> 
 
 <p align="center"><img src="https://github.com/atulm18014/atulm18014/blob/main/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20%26%20Share%20GIFs.gif"></p>
