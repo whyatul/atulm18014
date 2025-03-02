@@ -3,11 +3,6 @@
 
 
 <p align="center">
-</p>
-<h1 align="center">WELCOME TO MY PORTFOLIO</h1>
- <p align="center">
-</p> 
-<p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=500&size=25&pause=1000&random=false&width=435&lines=Hola+%F0%9F%98%80%2C+This+is+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8">   
 </p> 
 
