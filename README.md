@@ -21,7 +21,7 @@ Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Scienc
 - ⚙️ I use daily: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`, `nodejs/express`, `.jwt`, `git/github`, `vscode`, `vim`, `zsh`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reactjs**, **nextjs**, **development**, **design thinking**, **anything**
-- 📫 Reach me: [atulmaurya18.04@gmail.com](mailto://atulmaurya18.04@outlook.com)
+- 📫 Reach me: [atulmaurya18.04@outlook.com](mailto://atulmaurya18.04@outlook.com)
 
 - ⚡️ Fun fact: I love music, currently listening to [F-1 Trillion-Post Malone](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx?si=vMhaUp3nTgOxFfJqcWIxHg)
 
